@@ -5,6 +5,7 @@
 /data/js/programs_5
 /data/js/programs_5000
 /data/js/programs_all
+/data/tokens
 *.swp
 *~
 __pycache__
@@ -14,9 +15,13 @@ idsWith*.json
 litsWith*.json
 .idea/*
 encoded_tokens*.npy
-token_to*.json
 experiment_*
 rb-*.js
-*.json
 *_model_*
+calls*.json
+context_token*.json
+fileIDs.json
+idsLits*.json
+main_token*.json
 poss_anomalies.txt
+HyperExp*
